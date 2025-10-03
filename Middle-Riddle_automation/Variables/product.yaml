@@ -1,0 +1,2 @@
+homepage :
+  login_btn : "//[@id='text']"
